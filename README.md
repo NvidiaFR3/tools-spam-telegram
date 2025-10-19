@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://files.catbox.moe/9pchlz.jpg]" alt="Thumbnail" width="300"/>
+  <img src="https://files.catbox.moe/9pchlz.jpg" alt="Thumbnail" width="300"/>
 </p>
 
 # 🚀 Telegram Tools Spammer
@@ -96,7 +96,7 @@ Setelah semua instalasi selesai, Anda siap menjalankan skripnya.
 Jika Anda merasa *tools* ini bermanfaat, Anda bisa mendukung saya dengan berdonasi melalui QRIS di bawah ini. Dukungan Anda sangat berarti!
 
 <p align="center">
-  <img src="[https://files.catbox.moe/nu6ci1.jpg]" alt="Donasi QRIS" width="300"/>
+  <img src="https://files.catbox.moe/nu6ci1.jpg" alt="Donasi QRIS" width="300"/>
 </p>
 
 Anda juga bisa berdonasi melalui:
