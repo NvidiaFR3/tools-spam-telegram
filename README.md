@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/9pchlz.jpg" alt="Thumbnail" width="300"/>
+  <img src="https://files.catbox.moe/9pchlz.jpg" alt="Thumbnail" width="400"/>
 </p>
 
 # 🚀 Telegram Tools Spammer
